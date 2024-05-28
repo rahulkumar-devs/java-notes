@@ -1,0 +1,20 @@
+1. Programing Language
+2. Working of a Java Program 
+3. Basic Java Program
+4. Keywords in Java
+5. variable in java 
+6. Data types in java 
+7. Types Conversion in java 
+8. Java comments
+
+------Programing Language------
+programming language is a set of instructions and syntax used to create software programs.
+ Some of the key features of programming languages include
+
+ hello.java ---------> compiler (hello.class) byte-code ---------> JVM machine (convert into machine code) ;
+
+ JVM --> (Java virtual machine) is an abstract machine that enables computer to run a java progra . 
+ actually jvm present inside the JRE which is actual a physical machine.
+ When java Program run , java compiler first complies java code to byteCode.
+  then JVM translate byteCode into native machine code (set of instructions that a computer's CPU execute directly)
+
